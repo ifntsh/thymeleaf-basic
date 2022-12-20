@@ -5,7 +5,7 @@ Project
 
 - Project: Gradle Project 
 - Language: Java
-- Spring Boot: 2.5.x 
+- Spring Boot: 2.7.6
 
 Project Metadata
 
